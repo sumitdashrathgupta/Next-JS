@@ -1,1 +1,1 @@
-##Every Day new concept in Web Technology
+<h1>Every Day new concept in Next Js Technology</h1>
